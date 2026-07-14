@@ -1,5 +1,5 @@
 # Survival-Analysis-DirtSlurper3100-GA
-
+#[View the report](https://github.com/gaurisharma360/Survival-Analysis-DirtSlurper3100-GA/blob/main/Survival_Analysis_Assignment_Group_17%20(2).pdf)
 The DirtSlurper3100 is a robotic vacuum
 cleaner equipped with multiple sensors and a
 rechargeable battery system. Reliability is a
